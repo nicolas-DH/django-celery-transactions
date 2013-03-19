@@ -41,7 +41,7 @@ setup(
     url="https://github.com/chrisdoble/django-celery-transactions",
     license="Simplified BSD",
     packages=["djcelery_transactions"],
-    install_requires=[
+    tests_require=[
         "celery>=2.2.7",
         "Django>=1.2.4",
         "django-celery>=2.2.7",
