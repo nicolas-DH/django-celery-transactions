@@ -33,7 +33,7 @@ class RunTests(Command):
 
 setup(
     name="django-celery-transactions2",
-    version="0.1.5",
+    version="0.1.6",
     description="Django transaction support for Celery tasks.",
     long_description="See https://github.com/chrisdoble/django-celery-transactions",
     author="Chris Doble",
